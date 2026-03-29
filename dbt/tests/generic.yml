@@ -1,0 +1,4 @@
+# TODO: Tests génériques dbt (not_null, unique, etc.)
+version: 2
+
+models: []

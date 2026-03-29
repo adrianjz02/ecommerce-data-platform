@@ -1,0 +1,1 @@
+-- TODO: Modèle intermédiaire - agrégation événements clients

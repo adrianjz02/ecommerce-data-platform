@@ -1,0 +1,13 @@
+# TODO: Docker Compose pour Airflow + dbt
+version: '3.8'
+
+services:
+  airflow:
+    build:
+      context: ./airflow
+    # TODO: configurer ports, volumes, env vars
+
+  dbt:
+    build:
+      context: ./dbt
+    # TODO: configurer volumes, env vars

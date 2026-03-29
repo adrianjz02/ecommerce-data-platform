@@ -1,0 +1,11 @@
+# TODO: Template de profil dbt (copier en profiles.yml et remplir)
+ecommerce:
+  target: dev
+  outputs:
+    dev:
+      type: bigquery
+      method: service-account
+      project: "<GCP_PROJECT_ID>"
+      dataset: "<BQ_DATASET>"
+      threads: 4
+      keyfile: "<PATH_TO_KEYFILE>"
