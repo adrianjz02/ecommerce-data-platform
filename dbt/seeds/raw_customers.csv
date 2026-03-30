@@ -1,1 +1,16 @@
-customer_id,first_name,last_name,email
+customer_id,first_name,last_name,email,signup_date,country,acquisition_channel,device_type
+C001,Alice,Martin,alice.martin@email.fr,2023-01-15,FR,organic,desktop
+C002,Bob,Dupont,bob.dupont@email.fr,2023-02-20,FR,paid,mobile
+C003,Clara,Schmidt,clara.schmidt@email.de,2023-03-08,DE,referral,desktop
+C004,David,Johnson,david.johnson@email.com,2023-04-12,US,social,mobile
+C005,Emma,Durand,emma.durand@email.fr,2023-05-01,FR,organic,tablet
+C006,Frank,Mueller,frank.mueller@email.de,2023-06-18,DE,paid,desktop
+C007,Grace,Williams,grace.williams@email.co.uk,2023-07-25,UK,referral,mobile
+C008,Hugo,Bernard,hugo.bernard@email.fr,2023-08-03,FR,social,desktop
+C009,Isla,Brown,isla.brown@email.co.uk,2023-09-14,UK,organic,mobile
+C010,Jules,Petit,jules.petit@email.fr,2023-10-22,FR,paid,tablet
+C011,Karen,Fischer,karen.fischer@email.de,2023-11-05,DE,organic,desktop
+C012,Liam,Davis,liam.davis@email.com,2023-12-30,US,paid,mobile
+C013,Marie,Leroy,marie.leroy@email.fr,2024-01-10,FR,referral,desktop
+C014,Noah,Taylor,noah.taylor@email.co.uk,2024-02-14,UK,social,mobile
+C015,Olivia,Moreau,olivia.moreau@email.fr,2024-03-28,FR,organic,desktop

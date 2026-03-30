@@ -1,1 +1,19 @@
-product_id,name,category,price
+product_id,name,category,subcategory,price,brand,listed_date
+P001,Smartphone Pro X,Électronique,Smartphones,899.99,TechVibe,2023-01-10
+P002,Coque silicone premium,Électronique,Accessoires,19.99,TechVibe,2023-01-15
+P003,Casque Bluetooth ANC,Électronique,Audio,149.99,SoundWave,2023-02-01
+P004,T-shirt coton bio,Mode,Hauts,29.99,UrbanWear,2023-02-20
+P005,Sneakers running lite,Mode,Chaussures,89.99,UrbanWear,2023-03-05
+P006,Montre connectée Sport,Électronique,Accessoires,249.99,TechVibe,2023-03-18
+P007,Vase céramique artisanal,Maison,Décoration,45.00,HomeSense,2023-04-02
+P008,Set couteaux cuisine,Maison,Cuisine,64.99,HomeSense,2023-04-22
+P009,Tapis de yoga premium,Sport,Fitness,34.99,FitGear,2023-05-10
+P010,Sac à dos randonnée 40L,Sport,Outdoor,79.99,FitGear,2023-06-01
+P011,Enceinte portable waterproof,Électronique,Audio,59.99,SoundWave,2023-06-15
+P012,Robe été fleurie,Mode,Robes,49.99,UrbanWear,2023-07-01
+P013,Lampe de bureau LED,Maison,Décoration,39.99,HomeSense,2023-08-12
+P014,Haltères réglables 20kg,Sport,Fitness,119.99,FitGear,2023-09-05
+P015,Tablette 10 pouces,Électronique,Smartphones,349.99,TechVibe,2023-10-20
+P016,Veste imperméable trail,Sport,Outdoor,129.99,FitGear,2023-11-08
+P017,Bougie parfumée soja,Maison,Décoration,22.00,HomeSense,2024-01-15
+P018,Écouteurs intra sans fil,Électronique,Audio,79.99,SoundWave,2024-02-10
